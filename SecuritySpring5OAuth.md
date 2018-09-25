@@ -30,7 +30,7 @@ WebClient.builder()
 
 GrantedAuthoritiesExtractor
 
-![slide](/screen-shots/IMG_8277.JPG)
+![slide](screenshots/IMG_8277.JPG)
 
 
 
