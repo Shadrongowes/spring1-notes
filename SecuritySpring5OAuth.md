@@ -26,5 +26,11 @@ WebClient.builder()
 .applu(oauth2.oauth2Configuration)
 .build();
 ```
+## Server customization
+
+GrantedAuthoritiesExtractor
+
+![slide](/screen-shots/IMG_8277.JPG)
+
 
 
